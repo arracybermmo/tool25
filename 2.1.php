@@ -7,9 +7,9 @@ import time
 import json,requests,time
 from time import strftime
 from pystyle import Colorate, Colors, Write, Add, Center
-__ZALO__ = 'https://zalo.me/g/apmxom704'
+__ZALO__ = 'https://zalo.me/g/ncbwdf702'
 __ADMIN__ = 'ARRAYCYBER'
-__SHOP__ = 'vuvanchien.xyz'
+__SHOP__ = 'subre98.com'
 __VERSION__ = '1.0'
 __NHV__ = '\033[1;91m[\033[1;92m●\033[1;91m]\033[1;97m ➻❥'  
 def banner():
