@@ -99,10 +99,16 @@ def banner(red,green,blue,yellow,cyan,pink):
 ██║░░██║██║░░██║██║░░██║██║░░██║░░░██║░░░  ╚█████╔╝░░░██║░░░██████╦╝███████╗██║░░██║
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░  ░╚════╝░░░░╚═╝░░░╚═════╝░╚══════╝╚═╝░░╚═╝
 \033[1;34m╠═════════════════════════════════════════════════════════════════
-\033[1;32m║➢ Author   :    Vũ Văn Chiến                                   
-\033[1;36m║➢ Youtube  :   https://www.youtube.com/@ARRAYCYBERtool                  
-\033[1;31m║➣ Nhóm Zalo  : https://zalo.me/g/apmxom704                
-\033[1;33m║➣ Shop   : ARRAYCYBERtool.net                  
+\033[1;34m║➢ Admin : ARRAY CYBER
+\033[1;34m║➢ Youtube : https://www.youtube.com/@ArrayCyber
+\033[1;34m║➣ Boxx Zalo 1 : https://zalo.me/g/ncbwdf702
+\033[1;34m║➣ Box Zalo 2 : https://zalo.me/g/sqcpon701
+\033[1;34m║➣ Nhóm tele 1 : https://t.me/dichvumeta
+\033[1;34m║➣ Nhóm tele 2 : https://t.me/hethongdev
+\033[1;34m║➣ Nhóm Telegram 3 : https://t.me/hotromxh24
+\033[1;34m║➣ Website SUB ,... : SUBRE98.COM
+\033[1;34m║➣ SITE BÁN TÀI NGUYÊN : SELLCLONEVIA.CLICK
+\033[1;34m║➣ SITE BÁN MIỀN CHỈ TỪ 10K : MIENGIARE.CLICK
 \033[1;34m╚═════════════════════════════════════════════════════════════════
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'''
  
